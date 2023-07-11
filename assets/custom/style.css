@@ -1,10 +1,30 @@
-.container{
-    border: 5px solid black;
-}
-.row{
-    border: 3px solid rgb(238, 14, 14);
-}
-.col{
-    border: 3px solid rgb(59, 238, 14);
+.container {
+    border: 5px solid #000;
 }
 
+.row {
+    border: 3px solid red;
+}
+
+.col {
+    border: 3px solid green;
+}
+body{ 
+    background: gray;
+}
+
+#header{
+ background: orange;
+}
+#menu{
+background: pink;
+}
+#content{
+background: white;
+}
+#sidebar{
+    background: lightblue;
+}
+#footer{
+background: orange;
+}
