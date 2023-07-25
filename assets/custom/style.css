@@ -1,16 +1,26 @@
 .container {
-    border: 0px solid #000;
+    border: 5px solid #000;
 }
 
 .row {
-    border: 0px solid red;
+    border: 3px solid red;
 }
 
-.col {
-    border: 0px solid green;
+.pink {
+    background: pink;
 }
-body{ 
-    background: gray;
+
+.orange {
+    background: orange;
+}
+
+.blue {
+    background: blue;
+}
+
+
+/* .col {
+    border: 0px solid green;
 }
 
 #header{
@@ -27,4 +37,4 @@ background: white;
 }
 #footer{
 background: orange;
-}
+} */
